@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36422.26
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(Opdracht)Stad kleuren", "(Opdracht)Stad kleuren.csproj", "{B262E763-09C8-42C8-8C5D-65AAA71A6151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B262E763-09C8-42C8-8C5D-65AAA71A6151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B262E763-09C8-42C8-8C5D-65AAA71A6151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B262E763-09C8-42C8-8C5D-65AAA71A6151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B262E763-09C8-42C8-8C5D-65AAA71A6151}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2799F2DE-01D8-4CA1-B0A7-225E86ABA6C3}
+	EndGlobalSection
+EndGlobal

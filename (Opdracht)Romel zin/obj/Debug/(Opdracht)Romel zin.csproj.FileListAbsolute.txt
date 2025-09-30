@@ -1,0 +1,6 @@
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Romel zin\bin\Debug\(Opdracht)Romel zin.exe
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Romel zin\bin\Debug\(Opdracht)Romel zin.pdb
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Romel zin\obj\Debug\(Opdracht)Romel zin.csproj.CoreCompileInputs.cache
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Romel zin\obj\Debug\(Opdracht)Romel zin.exe
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Romel zin\obj\Debug\(Opdracht)Romel zin.pdb
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Romel zin\obj\Debug\(Opdracht)Romel zin.csproj.AssemblyReference.cache

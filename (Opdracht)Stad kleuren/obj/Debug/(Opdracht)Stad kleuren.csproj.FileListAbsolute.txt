@@ -1,0 +1,6 @@
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Stad kleuren\obj\Debug\(Opdracht)Stad kleuren.csproj.CoreCompileInputs.cache
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Stad kleuren\bin\Debug\(Opdracht)Stad kleuren.exe
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Stad kleuren\bin\Debug\(Opdracht)Stad kleuren.pdb
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Stad kleuren\obj\Debug\(Opdracht)Stad kleuren.exe
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Stad kleuren\obj\Debug\(Opdracht)Stad kleuren.pdb
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Stad kleuren\obj\Debug\(Opdracht)Stad kleuren.csproj.AssemblyReference.cache

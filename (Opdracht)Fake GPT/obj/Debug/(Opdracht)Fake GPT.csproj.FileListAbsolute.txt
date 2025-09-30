@@ -1,0 +1,5 @@
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Fake GPT\bin\Debug\(Opdracht)Fake GPT.exe
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Fake GPT\bin\Debug\(Opdracht)Fake GPT.pdb
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Fake GPT\obj\Debug\(Opdracht)Fake GPT.csproj.CoreCompileInputs.cache
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Fake GPT\obj\Debug\(Opdracht)Fake GPT.exe
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Fake GPT\obj\Debug\(Opdracht)Fake GPT.pdb
