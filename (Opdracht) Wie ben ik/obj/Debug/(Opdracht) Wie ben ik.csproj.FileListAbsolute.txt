@@ -1,0 +1,6 @@
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht) Wie ben ik\bin\Debug\(Opdracht) Wie ben ik.exe
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht) Wie ben ik\bin\Debug\(Opdracht) Wie ben ik.pdb
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht) Wie ben ik\obj\Debug\(Opdracht) Wie ben ik.csproj.AssemblyReference.cache
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht) Wie ben ik\obj\Debug\(Opdracht) Wie ben ik.csproj.CoreCompileInputs.cache
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht) Wie ben ik\obj\Debug\(Opdracht) Wie ben ik.exe
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht) Wie ben ik\obj\Debug\(Opdracht) Wie ben ik.pdb
