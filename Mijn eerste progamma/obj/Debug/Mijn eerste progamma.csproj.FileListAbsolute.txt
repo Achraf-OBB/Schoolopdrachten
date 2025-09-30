@@ -1,0 +1,6 @@
+C:\Users\Achraf\Documents\VS19 Code\Mijn eerste progamma\bin\Debug\Mijn eerste progamma.exe
+C:\Users\Achraf\Documents\VS19 Code\Mijn eerste progamma\bin\Debug\Mijn eerste progamma.pdb
+C:\Users\Achraf\Documents\VS19 Code\Mijn eerste progamma\obj\Debug\Mijn eerste progamma.csproj.AssemblyReference.cache
+C:\Users\Achraf\Documents\VS19 Code\Mijn eerste progamma\obj\Debug\Mijn eerste progamma.csproj.CoreCompileInputs.cache
+C:\Users\Achraf\Documents\VS19 Code\Mijn eerste progamma\obj\Debug\Mijn eerste progamma.exe
+C:\Users\Achraf\Documents\VS19 Code\Mijn eerste progamma\obj\Debug\Mijn eerste progamma.pdb

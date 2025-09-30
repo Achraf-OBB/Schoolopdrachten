@@ -1,0 +1,5 @@
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Visitekaart\bin\Debug\(Opdracht)Visitekaart.exe
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Visitekaart\bin\Debug\(Opdracht)Visitekaart.pdb
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Visitekaart\obj\Debug\(Opdracht)Visitekaart.csproj.CoreCompileInputs.cache
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Visitekaart\obj\Debug\(Opdracht)Visitekaart.exe
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Visitekaart\obj\Debug\(Opdracht)Visitekaart.pdb

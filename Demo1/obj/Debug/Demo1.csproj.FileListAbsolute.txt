@@ -1,0 +1,6 @@
+C:\Users\Achraf\Documents\VS19 Code\Demo1\obj\Debug\Demo1.csproj.AssemblyReference.cache
+C:\Users\Achraf\Documents\VS19 Code\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+C:\Users\Achraf\Documents\VS19 Code\Demo1\bin\Debug\Demo1.exe
+C:\Users\Achraf\Documents\VS19 Code\Demo1\bin\Debug\Demo1.pdb
+C:\Users\Achraf\Documents\VS19 Code\Demo1\obj\Debug\Demo1.exe
+C:\Users\Achraf\Documents\VS19 Code\Demo1\obj\Debug\Demo1.pdb

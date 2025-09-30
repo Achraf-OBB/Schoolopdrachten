@@ -1,0 +1,5 @@
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Tekening\bin\Debug\(Opdracht)Tekening.exe
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Tekening\bin\Debug\(Opdracht)Tekening.pdb
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Tekening\obj\Debug\(Opdracht)Tekening.csproj.CoreCompileInputs.cache
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Tekening\obj\Debug\(Opdracht)Tekening.exe
+C:\Users\Achraf\Documents\VS19 Code\(Opdracht)Tekening\obj\Debug\(Opdracht)Tekening.pdb
